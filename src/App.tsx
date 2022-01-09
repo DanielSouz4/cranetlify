@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React with Rocketseat
+          Learn React and more with Rocketseat 
         </a>
       </header>
     </div>
